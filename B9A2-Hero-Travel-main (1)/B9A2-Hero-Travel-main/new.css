@@ -1,0 +1,500 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+span{
+    color: #ff5400;
+}
+li{
+    list-style: none;
+    padding-right: 20px;
+    color: #424247;
+    font-size: 18px;
+    
+}
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 60px;
+    
+
+}
+.navul{
+    display: flex;
+}
+
+    
+
+.hero{
+    display: flex;
+    align-items: center;
+
+}
+.baba{
+    background-image: url(Images/Group\ 13\ \(1\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;    
+}
+.son{
+    text-align: center;
+    color: white;
+    padding: 106px 185px;
+    
+    
+    
+}
+.choto{
+    font-size: 16px;
+}
+
+.btn{  
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 20px;
+    color: #131318;
+    width: 174px;
+    height: 52px;
+    
+    
+    
+    
+}
+.newbtn{
+    width: 800px;
+    height: 84;
+    padding: 10px;
+    
+    background-color: #ffffff4d;
+
+
+    
+    
+}
+.color-btn{
+    background-color: #ff5400;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 174px;
+    height: 52px;
+}
+.parakaj{
+    
+
+    margin: 135px;
+    width:477px;
+    height: 466px;
+    
+    font-size: 16px;
+    color: #5A5A5D;
+}
+.a{
+    padding-top:30px;
+    font-size: 40px;
+    font-weight: 800px;
+}
+.Tour22{
+   padding-top: 16px;
+   padding-right: 5px;
+}
+.pahar{
+    display: flex;
+    gap: 45px;
+    
+    
+}
+.paraul{
+    font-size: 13px;
+    height: 466px;
+    width: 577px;
+    color: #131318;
+    gap: 16px;
+    
+    
+    
+}
+
+
+
+.pahar2{
+    width: 540px;
+    height: 550px;
+    margin-top: 100px;
+}
+.c{
+    text-align: center;
+}
+.d{
+    width: 573px;
+    height:300px ;
+    margin: 135px;
+    display: flex;
+    gap: 24px;
+}
+.e{
+    margin: 135px;
+    display: flex;
+    gap: 10px;
+}
+.pica{
+    width: 374px;
+    height: 286px;
+
+
+}
+.picb{
+    width: 474px;
+    height: 286px;
+
+}
+.picc{
+    width: 274px;
+    height: 286px;
+
+}
+.f{
+    margin: 135px;
+    display: flex;
+    gap: 10px;
+    
+}
+.aa{
+    width: 473px;
+    height: 300px;
+
+}
+.bb{
+    width: 673px;
+    height: 300px;
+
+}
+.aksathe{
+    padding: 24px 24px;
+}
+.read{
+    padding: 10px; background-color: #ff5400;
+    
+}
+.img2{
+    background-image: url(Images/Rectangle\ 5.png);
+    width: 573px;
+    height: 300px;
+    
+
+    
+
+}
+.img3{
+    background-image: url(Images/Rectangle\ 8.png);
+    width: 573px;
+    height: 300px;
+}
+.container1{
+    display: flex;
+    gap: 24px;
+    
+}
+.img4{
+   background-image: url(Images/Rectangle\ 6.png);
+    width: 374px;
+    height: 286px;
+
+
+}
+.img5{
+    background-image: url(Images/Rectangle\ 7.png);
+    width: 474px;
+    height: 286px;
+
+}
+.img6{
+    background-image: url(Images/Rectangle\ 9.png);
+    width: 274px;
+    height: 286px;
+
+}
+.container2{
+    display: flex;
+    gap: 24px;
+
+}
+.img7{
+    background-image: url(Images/Rectangle\ 11.png);
+    width: 473px;
+    height: 300px;
+
+}
+.img8{
+    background-image: url(Images/Rectangle\ 10.png);
+    width: 673px;
+    height: 300px;
+
+}
+.container3{
+    display: flex;
+    gap: 24px;
+}
+h3{
+    color: #ffffff;
+    text-align: center; 
+    
+    
+    
+    
+
+}
+.purotai{
+    margin: 135px;
+    
+
+}
+.logowhy{
+    text-align: center;
+}
+.logoh{
+    font-weight: 800px;
+    
+    color: #131318;
+
+}
+.logop{
+    color: #131318;
+    font-size: 16px;
+    
+}
+.hand{
+    font-weight: 800px;
+    color: #131318;
+}
+.cardp{
+    font-size: 16px;
+    color: #5A5A5D;
+}
+.logo{
+    text-align: center;
+}
+.card1{
+    
+    width: 573px;
+    height: 286px;
+    background-color: #F6E9E3;
+    padding: 32px 55px 32px 32px;
+    
+
+}
+.card2{
+    
+    width: 573px;
+    height: 284px;
+    background-color: #b8e2ee;
+    padding: 32px 55px 32px 32px;
+    
+
+} 
+.card{
+    display: flex;
+    gap: 24px;
+    margin: 135px;
+} 
+.card3{
+    
+    width: 573px;
+    height: 284px;
+    background-color: #f0d8d8;
+    
+   margin-left: 450px;
+   padding: 32px 55px 32px 32px;
+   
+
+}
+.deals{
+    text-align: center;
+}
+.sea1{
+    background-image: url(Images/Group\ 39.png);
+    width: 1170px;
+    height: 500px;
+    margin: 135px;
+    
+}
+.list{
+    display: flex;
+    margin-left: 2px;
+    padding-left: 10px;
+
+}
+.sorejaoa{
+    background-color: #ffffff;
+    opacity: 80%;
+    width: 579px;
+    height: 389px;
+    border-radius: 8px; 
+    margin:  0px 0px 55px 535px;
+    padding-top: 52px;
+    padding-left: 50px;
+}
+    
+    
+   .vitorechoto{
+    margin-top: 55px;
+    margin-right: 55px;
+   }
+    
+
+.sorejaoa2{
+background-color: #ffffff;
+opacity: 80%;
+width: 579px;
+height: 389px;
+border-radius: 8px; 
+margin:  0px 55px 56px 55px;
+padding-left: 50px;
+padding-top: 52px;
+
+
+
+}
+.sea2{
+    background-image: url(Images/Group\ 40.png);
+    width: 1170px;
+    height: 500px;
+    margin:135px;
+    
+
+}
+.sea3{
+    background-image: url(Images/Group\ 39.png);
+    width: 1170px;
+    height: 500px;
+    margin: 135px;
+
+}
+.Price{
+    color: #ff5400;
+    font-size: 20px;
+}
+.Book{
+    width: 152px;
+    height: 52px;
+    color: #ffffff;
+    background-color: #ff5400;
+    border: none;
+    border-radius:8px;
+
+}
+.see{
+    width: 210px;
+    height: 52px;
+    color: #ffffff; 
+    background-color: #ff5400;
+    border: none;
+    border-radius: 5px;
+}
+.seebtn{
+    text-align: center;
+
+    
+}
+.Asimple1{
+    
+    
+   
+}
+.img10{
+    
+}
+.footer{
+    display: flex;
+    margin: 135px;
+
+}
+.Enter{
+    
+}
+.rang{
+    
+    width: 393px;
+    height: 52px;
+    padding: 8px;
+    background-color:  #e3e3ed;
+    color: #cdcdd7;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 16px;
+}
+.rang2{
+    width: 393px;
+    height: 52px;
+    padding: 8px;
+    background-color: #ff5400;
+    color: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+    border: none;
+    margin-top: 24px;
+
+}
+.problem{
+    width: 474px;
+    height: 422px;
+}
+.problem2{
+    width: 672px;
+    height: 422px;
+}
+
+.Newsletter{
+    display: flex;
+    margin: 135px;
+
+}
+
+.end{
+    align-items: baseline;
+    text-align: center;
+    
+}
+.end1{
+    justify-content: baseline;
+    display: flex;
+    margin-left: 600px;
+    
+    
+   
+
+    
+}
+.twitter{
+    padding-right: 5px;
+}
+
+
+
+
+    
+    
+    
+
+
+
+    
+
+
+
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+
+    
